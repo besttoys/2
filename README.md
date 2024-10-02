@@ -13,7 +13,19 @@ Toys play a pivotal role in the development of 2-year-olds. They offer a fun and
 * **Educational Value:** Look for toys that offer educational benefits, such as teaching colors, shapes, numbers, or letters.
 * **Interest:** Consider your child's interests and preferences when selecting toys.
 * **Open-Ended Play:** Toys that encourage imaginative play and creativity are often the most beneficial.
-
+### Explore other toys by kids age
+<a href="https://github.com/besttoys/newborn">Newborn</a> |
+<a href="https://github.com/besttoys/1">1 Month</a> |
+<a href="https://github.com/besttoys/2">2 Month</a> |
+<a href="https://github.com/besttoys/3">3 Month</a> |
+<a href="https://github.com/besttoys/4">4 Month</a> |
+<a href="https://github.com/besttoys/5">5 Month</a> |
+<a href="https://github.com/besttoys/6">6 Month</a> |
+<a href="https://github.com/besttoys/7">7 Month</a> |
+<a href="https://github.com/besttoys/8">8 Month</a> |
+<a href="https://github.com/besttoys/9">9 Month</a> |
+<a href="https://github.com/besttoys/10">10 Month</a> |
+<a href="https://github.com/besttoys/11">11 Month</a>
 ## Best Toy Categories for 2-Year-Olds
 
 ## Sensory Toys
